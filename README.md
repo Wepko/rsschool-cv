@@ -1,1 +1,1 @@
-# rsschool-cv
+https://wepko.github.io/rsschool-cv/

@@ -27,7 +27,7 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 
 ```
 function sum(a, b) {
-  return a - b;
+  return a + b;
 }
 
 const result = sum(1, 2);
